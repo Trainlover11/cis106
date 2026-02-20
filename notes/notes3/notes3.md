@@ -1,20 +1,30 @@
 # Notes 3
+
 ## What is a graphical user interface (GUI)?
 A set of programs that allow you to interact with the computer with via icons.
+
 ## What is a desktop environment?
 A group of programs running on top of a computer system.
+
 ## What is the command line interface (CLI)?
 Users interact with the computer using commands.
+
 ## How do I access the command line interface (CLI)?
 Linux Console and Terminal Emulator.
+
 ## What is a virtual console?
 A Terminal session that runs in Linux system memory.
+
 ## What is a terminal emulator?
 Allows you to access the Linux CLI when using the GUI.
+
 ## What is bash?
 Configured with a hidden file located in your home directory.
+
 ## What is the shell prompt?
 A character at the start of the command.
+
+## commands definitions
 
 ## clear
 * **Definition**:
