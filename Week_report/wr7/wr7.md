@@ -2,3 +2,4 @@
 
 * [Lab 7](../../labs/lab7/lab7.md)
 * [Notes](../../notes/notes7/notes7.md)
+* [Discussion Board](%20Discussion%20board.png)
