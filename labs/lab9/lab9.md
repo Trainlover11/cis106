@@ -21,8 +21,10 @@
 ![q4.1](q4.1.png)
 ![q4.2](q4.2.png)
 
-### Question 5
-
-
 ### Challenge question
 
+![ch1](ch1.png)
+![ch2](ch2.png)
+![ch3](ch3.png)
+![ch4](ch4.png)
+![ch5](ch5.png)

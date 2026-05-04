@@ -69,12 +69,17 @@ When we use > on a file that already exist and contains data, we overwrite whate
   * Append the output of a script.
     * `./backup.sh` + `>>` + `backup.log`
 
-`tr` + + `character`+ `character
+`tr` + + `character`+ `character`
 
 example tr ';' ','
 
+
 git clone repository/url/here
+
 git pull
+
 git add .
+
 git commit -m "description here"
+
 git push
